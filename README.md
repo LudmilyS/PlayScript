@@ -27,7 +27,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ludmilys/playscript.git
+   git clone https://github.com/ludmilys/PlayScript.git
    cd playscript
 
 2. Instale as dependencias:
